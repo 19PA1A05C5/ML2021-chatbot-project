@@ -21,11 +21,11 @@ Task of the bot :
 
 This chatbot project is an exciting fun game for playing python base game for children or anyother. The program generates a random number from 1 to 10, or 1 to 100 any range that is specified and the user must guess the number after a hint from the computer. Every time a user’s guess is wrong they are prompted with more hints to make it easier for the user to guess the number but at the cost of reducing the score.The program also requires functions to check if an actual number is entered by the user or not, to compare the input number with the actual number, to find the difference between the two numbers. 
 
-######Block diagram of the functions :
+Block diagram of the functions :
 
-######## Youtube Link Demo :
+Youtube Link Demo :
 
-#######Links of resources we referred online :
+Links of resources we referred online :
 
 https://www.geeksforgeeks.org/chatbot-theory-explained/
 
