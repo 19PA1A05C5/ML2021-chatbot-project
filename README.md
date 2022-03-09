@@ -11,8 +11,6 @@
 
  NALLAMALLI SINDHU  -  19PA1A05C1
 
- NARLA PUJITHA   - 19PA1A04B8
-
 Objective :
 
 To make a chatbot of 'guess the number' python base game that could exhilarate the people very much and especially the children more excite to play games.The intension of designing the guess the number python base game is to fall in interest with coding base games rather than mental stress games like pubg,temple run etc.....Now a days kids are often showing more interest towards useless games and mental stress games,those games are showing effect on their livestyles.So we've come with python base game "Guess The Numbers".
